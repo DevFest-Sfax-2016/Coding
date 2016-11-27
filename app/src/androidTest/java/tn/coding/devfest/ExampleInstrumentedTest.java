@@ -1,4 +1,4 @@
-package com.coding.devfest;
+package tn.coding.devfest;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

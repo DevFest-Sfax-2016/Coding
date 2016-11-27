@@ -1,4 +1,4 @@
-package com.coding.devfest;
+package tn.coding.devfest;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

@@ -1,4 +1,4 @@
-package com.coding.devfest;
+package tn.coding.devfest;
 
 import org.junit.Test;
 
